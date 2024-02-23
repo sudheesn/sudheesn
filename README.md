@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all AI projects related to natural language processing
 - 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Namagement and technical knowledge ! 
+- ⚡ Fun fact: Management and technical knowledge ! 
 
 <!---
 sudheesn/sudheesn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
